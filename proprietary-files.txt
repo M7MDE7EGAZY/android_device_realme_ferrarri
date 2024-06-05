@@ -1099,18 +1099,12 @@ vendor/lib64/camera/components/com.arcsoft.node.eisv2.so
 vendor/lib64/camera/components/com.arcsoft.node.smooth_transition.so
 vendor/lib64/camera/components/com.bots.node.vendortagwrite.so
 odm/lib64/vendor.oplus.hardware.performance-V1-ndk_platform.so
-odm/lib/libAlgoInterface.so
-odm/lib/libc++_shared.so
-odm/lib/libDeVIS.so
 odm/lib/libVDBlurlessAPI_v2.so
-odm/lib/libapsultrahdr.so
 odm/lib64/libapsultrahdr.so
 system_ext/lib64/libHeifWinBufExchg-jni.so
 system_ext/lib64/liboplus_heifconverter.so
 system_ext/lib64/liboplusHeifDecoderImpl.so
 system_ext/lib64/vendor.oplus.hardware.cameraMDM@1.0.so
-system_ext/lib/libHeifEncoderWrapper.so
-system_ext/lib/libNativeWinBuffExchange.so
 system_ext/lib64/libAIBrightness.so
 system_ext/lib64/liboplus_10bitHeif.so
 vendor/lib64/android.hardware.camera.common@1.0.so
@@ -1318,8 +1312,6 @@ vendor/lib64/vendor.qti.hardware.camera.aon@1.0.so
 vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so
 vendor/lib64/vendor.qti.hardware.camera.postproc@1.0.so
 vendor/lib64/vendor.qti.hardware.display.config-V2-ndk_platform.so
-vendor/lib/libcamerapostproc.so
-vendor/lib/libcamxexternalformatutils.so
 
 # Camera firmware
 vendor/firmware/CAMERA_ICP.b00
